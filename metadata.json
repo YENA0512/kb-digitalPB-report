@@ -1,0 +1,10 @@
+{
+  "name": "KB 머니플로우 (KB MoneyFlow)",
+  "description": "실시간 뉴스 분석과 AI 진단을 통한 개인별 맞춤 금융 처방전, 디지털 PB 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "AI Financial Diagnosis",
+    "Real-time Market Insights",
+    "Asset Rebalancing Quests"
+  ]
+}
